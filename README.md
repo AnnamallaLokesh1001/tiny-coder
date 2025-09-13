@@ -1,26 +1,30 @@
-# Welcome to your Lovable project
+1.Introduction
 
-## Project info
+The Student Wellness Monitor is a mental health and wellness tracking application designed specifically for students. It aims to support mental well-being through daily mood check-ins, AI-powered sentiment analysis, personalized wellness recommendations, and data-driven trend visualization.
 
-**URL**: https://lovable.dev/projects/40aada97-4e6e-4d81-bd0d-7f2fd688a7c1
+2.Key Features
 
-## How can I edit this code?
+ Mood Check-Ins
 
-There are several ways of editing your application.
+Simple emoji sliders / mood scales (1–10).
 
-**Use Lovable**
+Daily mood journals (optional text input).
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/40aada97-4e6e-4d81-bd0d-7f2fd688a7c1) and start prompting.
+Push notifications/reminders for daily check-ins.
 
-Changes made via Lovable will be committed automatically to this repo.
+3.Benefits
 
-**Use your preferred IDE**
+Improves mental health awareness among students.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Encourages daily reflection & self-care habits.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Provides personalized guidance without replacing professionals.
 
-Follow these steps:
+Useful tool for counselors/mentors if students choose to share data.
+
+4.Conclusion
+
+The Student Wellness Monitor is a holistic platform that empowers students to track, analyze, and improve their mental health. With a combination of daily mood check-ins, sentiment analysis, personalized recommendations, and trend visualization, this system can play a vital role in supporting student wellness in educational institutions.
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
